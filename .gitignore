@@ -4,6 +4,10 @@
 # If you run "mix test --cover", coverage assets end up here.
 /cover/
 
+# === TOHIRGOO ===
+/config/dev.exs
+/config/prod.exs
+
 # The directory Mix downloads your dependencies sources to.
 /deps/
 
